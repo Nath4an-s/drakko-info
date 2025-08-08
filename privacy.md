@@ -183,7 +183,7 @@ If you wish to delete your Drakko account and all associated data, please follow
 ### Deletion Process
 
 To request the deletion of your account and data, please send an email to:  
-**[natsacier@gmail.com](mailto:natsacier@gmail.com)**
+**[app.drakko@gmail.com](mailto:app.drakko@gmail.com)**
 
 Please use the following subject line for your email:  
 **Drakko Account Deletion Request**
